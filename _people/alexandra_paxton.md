@@ -2,7 +2,7 @@
 title: "Alexandra Paxton"
 collection: people
 permalink: /people/paxton
-bio: 'Alexandra Paxton is an Assistant Professor of Psychological Sciences in
+bio: '<b>Alexandra Paxton</b> is an Assistant Professor of Psychological Sciences in
 the Perception, Action, Cognition Division. (She is also affiliated with the
 Center for the Ecological Study of Perception and Action; the Institute for
 Collaboration on Health, Intervention, and Policy; and the Connecticut Institute
