@@ -15,9 +15,9 @@
 <div class="{{ include.type | default: "list" }}__item" style="margin-left: 40px">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if post.avatar_url %}
-    <div class="person__avatar">
-      <img class="person__avatar" src="{{ post.avatar_url }}">
-    </div>
+      <div class="person__avatar">
+        <img class="person__avatar" src="{{ post.avatar_url }}">
+      </div>
     {% endif %}
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">

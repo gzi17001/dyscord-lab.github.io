@@ -14,7 +14,7 @@ education, and creating opportunities for cognitive scientists and psychologists
 who are interested in big data, naturally occurring data, and data science,
 with a special focus on data ethics.'
 githuburl: 'https://github.com/a-paxton'
-osfurl: 'https://osf.io/profile/'
+osfurl: 'https://osf.io/e27dn/'
 avatar_url: 'https://s.gravatar.com/avatar/5e2457040de7f89e82f9f862bb681e64?s=300'
 personal_url: 'https://alexandrapaxton.com/'
 ---
