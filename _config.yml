@@ -178,7 +178,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  people:
+  people_current:
+    output: true
+    permalink: /:collection/:path/
+  people_past:
     output: true
     permalink: /:collection/:path/
   recent:
@@ -214,12 +217,20 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _people
+  # _people_current
   - scope:
       path: ""
-      type: people
+      type: people_current
     values:
-      layout: people
+      layout: people_current
+      author_profile: true
+      share: true
+  # _people_past
+  - scope:
+      path: ""
+      type: people_past
+    values:
+      layout: people_past
       author_profile: true
       share: true
   # _recent
