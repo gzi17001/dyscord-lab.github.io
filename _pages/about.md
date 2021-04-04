@@ -11,8 +11,7 @@ redirect_from:
 The **dyscord lab** explores the
 **dy**namics of
 **s**ocial
-**c**ommunication and inter-
-**or**ganism
+**c**ommunication and inter-**or**ganism
 **d**ependencies.
 We investigate social dynamics in a dynamical and ecological framework using
 data-rich methods. We strive to conduct our science in a way that broadens
@@ -25,7 +24,7 @@ We are located in the
 [Department of Psychological Sciences](https://psych.uconn.edu/), specifically
 within the
 [Perception, Action, Cognition division](https://psych.uconn.edu/perception-action-cognition-division/).
-We are connected to the
+We are connected to
 the multidepartmental [Center for the Ecological Study of Perception and Action](https://cespa.uconn.edu/)
 and the cross-divisional [Social-Ecological and Environmental Lab](https://seelab.socialpsych.uconn.edu/).
 

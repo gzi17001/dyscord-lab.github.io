@@ -181,6 +181,9 @@ collections:
   people:
     output: true
     permalink: /:collection/:path/
+  recent:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -202,15 +205,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -220,29 +214,20 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
   # _people
   - scope:
       path: ""
       type: people
     values:
       layout: people
+      author_profile: true
+      share: true
+  # _recent
+  - scope:
+      path: ""
+      type: recent
+    values:
+      layout: recent
       author_profile: true
       share: true
 
