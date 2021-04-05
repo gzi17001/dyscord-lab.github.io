@@ -13,7 +13,7 @@ The **dyscord lab** explores the
 **s**ocial
 **c**ommunication and inter-**or**ganism
 **d**ependencies.
-We investigate social dynamics in a dynamical and ecological framework using
+We investigate social interaction in a dynamical and ecological framework using
 data-rich methods. We strive to conduct our science in a way that broadens
 access to and resources for these approaches. We do this by adopting open-science
 practices, by creating open-access resources, and by contributing to educational
