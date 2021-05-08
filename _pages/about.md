@@ -36,7 +36,7 @@ assistants! If the possibility of being a part of our community interests you,
 Someone from our lab will reach out to you to follow up within a week (although
 it might be longer if you fill this out during a break).
 
-## Some recent work
+## News and recent work
 
 {% for post in site.recent %}
   {% include archive-recent.html %}
