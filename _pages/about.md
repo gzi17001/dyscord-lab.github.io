@@ -28,6 +28,14 @@ We are connected to
 the multidepartmental [Center for the Ecological Study of Perception and Action](https://cespa.uconn.edu/)
 and the cross-divisional [Social-Ecological and Environmental Lab](https://seelab.socialpsych.uconn.edu/).
 
+## Joining the lab
+
+We're looking for interested undergraduate students to join our lab as research
+assistants! If the possibility of being a part of our community interests you,
+[please fill out this Google form](https://docs.google.com/forms/d/e/1FAIpQLScxCpwVgjQav5GtNbVnUdEvgmX7sY3qWOaNJ2HH4jndZF4Grw/viewform?usp=sf_link).
+Someone from our lab will reach out to you to follow up within a week (although
+it might be longer if you fill this out during a break).
+
 ## Some recent work
 
 {% for post in site.recent %}
