@@ -10,7 +10,7 @@ author_profile: true
 You can find out more about our lab members by clicking the links below their
 names, including their
 personal websites (<i class="fa fa-link" aria-hidden="true"></i>),
-GitHub profiles (<i class="fa fa-github" aria-hidden="true"></i>), and
+GitHub profiles (<i class="fab fa fa-github" aria-hidden="true"></i>), and
 OSF profiles (<i class="ai ai-fw ai-osf"></i>).
 
 ## Current lab members
