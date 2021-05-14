@@ -19,6 +19,15 @@ access to and resources for these approaches. We do this by adopting open-scienc
 practices, by creating open-access resources, and by contributing to educational
 efforts.
 
+At its core, our lab is built on a culture of respect and openness. We value
+each of member's contributions to the lab, whatever their role is in the lab.
+We appreciate the effort, time, and unique perspectives that each member brings.
+We actively strive to cultivate a culture of diversity, equity, and inclusion
+to make sure that everyone feels welcome in our scientific endeavors. We
+expect each person to act with personal, scientific, and academic integrity,
+and we expect each person to treat others with respect and dignity.
+
+
 We are located in the
 [University of Connecticut](https://uconn.edu/)’s
 [Department of Psychological Sciences](https://psych.uconn.edu/), specifically
@@ -27,6 +36,10 @@ within the
 We are connected to
 the multidepartmental [Center for the Ecological Study of Perception and Action](https://cespa.uconn.edu/)
 and the cross-divisional [Social-Ecological and Environmental Lab](https://seelab.socialpsych.uconn.edu/).
+[We acknowledge](https://nacp.uconn.edu/land-acknowledgement/) that the land on
+which we gather is the territory of the Mohegan, Mashantucket Pequot, Eastern
+Pequot, Schaghticoke, Golden Hill Paugussett, Nipmuc, and Lenape Peoples, who
+have stewarded this land throughout the generations.
 
 ## Joining the lab
 
