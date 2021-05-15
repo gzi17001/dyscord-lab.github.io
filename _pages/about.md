@@ -54,6 +54,6 @@ it might be longer if you fill this out during a break).
 
 ## News and recent work
 
-{% for post in site.recent %}
+{% for post in site.recent reversed%}
   {% include archive-recent.html %}
 {% endfor %}
