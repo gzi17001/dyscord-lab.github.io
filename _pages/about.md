@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+## the dyscord lab @ UConn
+
 The **dyscord lab** explores the
 **dy**namics of
 **s**ocial
