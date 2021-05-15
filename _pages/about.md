@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "the dyscord lab @ UConn"
-excerpt: "the dyscord lab @ UConn"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
+{% include base_path %}
 
 The **dyscord lab** explores the
 **dy**namics of
@@ -18,6 +18,8 @@ data-rich methods. We strive to conduct our science in a way that broadens
 access to and resources for these approaches. We do this by adopting open-science
 practices, by creating open-access resources, and by contributing to educational
 efforts.
+
+## About us
 
 At its core, our lab is built on a culture of respect and openness. We value
 each member's contributions to the lab, whatever their role is.
