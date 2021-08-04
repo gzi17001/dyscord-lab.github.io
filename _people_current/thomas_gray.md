@@ -1,3 +1,4 @@
+---
 title: "Gray Freeman Thomas"
 collection: people
 permalink: /people/Gray
@@ -5,3 +6,4 @@ bio: "<b>Gray Freeman Thomas</b> is a first year PhD student in the Ecological P
 githuburl: "https://github.com/grayefftee"
 osfurl: "https://osf.io/2a7q3/"
 avatar_url: "https://user-images.githubusercontent.com/57146463/128044803-867a44bd-d472-4635-bb86-b8f4a0808372.png"
+---
