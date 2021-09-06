@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "dyscord lab"
-  avatar           : "files/dyscord_lab-circle.png"
+  avatar           : "https://dyscord-lab.github.io/files/dyscord_lab-circle.png"
   bio              : "We study inter-organism dynamics!"
   location         : "University of Connecticut"
   employer         :
